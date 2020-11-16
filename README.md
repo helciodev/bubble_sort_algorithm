@@ -10,8 +10,8 @@ This project is about implementing bubble sort algorithm using ruby, it is focus
 
 ## About Project Features:
 
-- A bubble sort method 'bubble_sort' that returns a sorted array consisting of numbers
-- A bubble sort method 'bubble_sort_by' that returns a sorted array consisting of strings
+- A bubble sort method 'bubble_sort' that returns a sorted array consisting of integers in ascending order
+- A bubble sort method 'bubble_sort_by' that returns a sorted array consisting of strings in ascending order based on the number of characters for each word
 
 
 ## Built With
